@@ -1,0 +1,6 @@
+xoxr,731878,40,Istanbul-Ankara,B-01,00:00:AM
+xoxr,663757,40,Ankara-Istanbul,A-04,00:00:AM
+xoxr,535693,40,Istanbul-Ankara,A-01,00:00:AM
+xoxr,425377,40,Ankara-Istanbul,D-01,00:00:AM
+xoxr,1015440,40,Ankara-Istanbul,B-01,00:00:AM
+xoxr,322404,40,Ankara-Istanbul,C-01,00:00:AM
